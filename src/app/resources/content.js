@@ -171,7 +171,7 @@ experiences: [
 "skills": [
       {
         "title": "React.js, Next.js",
-        "description": "Prototyping in Figma with Once UI at an exceptional speed.",
+        "description": "Exceptional Quick development in Typescript frameworks.",
         "images": []
       },
       {
