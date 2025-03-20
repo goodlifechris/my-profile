@@ -92,58 +92,58 @@ const about = {
     title: "Work Experience",
 experiences: [
     {
-      "company": "Consultant Web and Mobile Engineering",
-      "timeframe": "2023 - Present",
-      "role": "Software Engineer",
-      "achievements": [
+      company: "Consultant Web and Mobile Engineering",
+      timeframe: "2023 - Present",
+     role: "Software Engineer",
+     achievements: [
         "Developed Internal Innovation Challenge for Stanbic Zambia.",
         "Product developer on innovation portal during COVID-19 for Kenya Airways and Ministry of ICT.",
         "Created an educative portal for Graca Machel Trust to empower women.",
         "Worked with the University of Nairobi on an info-portal for a data-driven approach to control infectious diseases in Kenya & Africa."
       ],
-      "images": []
+      images: []
     },
     {
-      "company": "UXCRFT Ltd",
-      "timeframe": "2019 - 2023",
-      "role": "Founder and Software Engineer",
-      "achievements": [
+      company: "UXCRFT Ltd",
+      timeframe: "2019 - 2023",
+     role: "Founder and Software Engineer",
+     achievements: [
         "Founded UXCRFT Ltd to mentor the community in coding and software development.",
         "Developed systems for organizations like Qhala Ltd and Safaricom Alpha.",
         "Worked on various innovation projects with the Ministry of Interior."
       ],
-      "images": []
+      images: []
     },
     {
-      "company": "Qhala Ltd",
-      "timeframe": "2019 - 2022",
-      "role": "Front-End Software Engineer",
-      "achievements": [
+      company: "Qhala Ltd",
+      timeframe: "2019 - 2022",
+     role: "Front-End Software Engineer",
+     achievements: [
         "Front-end developer for the Huduma Namba project, enabling single-sign-on for government services.",
         "Contributed to the development of the National Education Management System.",
         "Researched and developed a hybrid app for Safaricom under Safaricom Alpha."
       ],
-      "images": []
+      images: []
     },
     {
-      "company": "Smart Business Solutions | Purple Fire",
-      "timeframe": "2017 - 2019",
-      "role": "Software Developer",
-      "achievements": [
+      company: "Smart Business Solutions | Purple Fire",
+      timeframe: "2017 - 2019",
+     role: "Software Developer",
+     achievements: [
         "Developed front-end applications for fintech clients like DTB Bank.",
         "Built innovative hybrid apps for Safaricom, focusing on research and development."
       ],
-      "images": []
+      images: []
     },
     {
-      "company": "WPP-Scangroup",
-      "timeframe": "2015 - 2017",
-      "role": "Internship Web & Android Developer",
-      "achievements": [
+      company: "WPP-Scangroup",
+      timeframe: "2015 - 2017",
+     role: "Internship Web & Android Developer",
+     achievements: [
         "Developed a church Android app as part of research and development.",
         "Created the Pampers IoT application using Estimote iBeacons for customer engagement."
       ],
-      "images": []
+      images: []
     }
   ]
   },
@@ -168,46 +168,46 @@ experiences: [
   technical: {
     display: true, // set to false to hide this section
     title: "Technical skills",
-"skills": [
+    skills: [
       {
-        "title": "React.js, Next.js",
-        "description": "Exceptional Quick development in Typescript frameworks.",
-        "images": []
+        title: "React.js, Next.js",
+        description: "Exceptional Quick development in Typescript frameworks.",
+        images: []
       },
       {
-        "title": "Tailwind CSS, Ant Design, Material UI",
-        "description": "Expert in modern UI frameworks and styling solutions.",
-        "images": []
+        title: "Tailwind CSS, Ant Design, Material UI",
+        description: "Expert in modern UI frameworks and styling solutions.",
+        images: []
       },
       {
-        "title": "Vue.js, Nuxt.js",
-        "description": "Building next-gen apps with Vue.js and Nuxt.js.",
-        "images": []
+        title: "Vue.js, Nuxt.js",
+        description: "Building next-gen apps with Vue.js and Nuxt.js.",
+        images: []
       },
       {
-        "title": "Kotlin, Android",
-        "description": "Developing high-performance Android applications.",
-        "images": []
+        title: "Kotlin, Android",
+        description: "Developing high-performance Android applications.",
+        images: []
       },
       {
-        "title": "Dart, Flutter",
-        "description": "Building cross-platform mobile applications with Flutter.",
-        "images": []
+        title: "Dart, Flutter",
+        description: "Building cross-platform mobile applications with Flutter.",
+        images: []
       },
       {
-        "title": "MongoDB, PostgreSQL",
-        "description": "Experienced in NoSQL and SQL databases for scalable applications.",
-        "images": []
+        title: "MongoDB, PostgreSQL",
+        description: "Experienced in NoSQL and SQL databases for scalable applications.",
+        images: []
       },
       {
-        "title": "Figma, Adobe Illustrator",
-        "description": "Designing and prototyping user interfaces with Figma and Adobe tools.",
-        "images": []
+        title: "Figma, Adobe Illustrator",
+        description: "Designing and prototyping user interfaces with Figma and Adobe tools.",
+        images: []
       },
       {
-        "title": "Digital Ocean, AWS",
-        "description": "Deploying and managing cloud applications with Digital Ocean and AWS.",
-        "images": []
+        title: "Digital Ocean, AWS",
+        description: "Deploying and managing cloud applications with Digital Ocean and AWS.",
+        images: []
       }
     ]
   },
