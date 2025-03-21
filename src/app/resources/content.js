@@ -142,7 +142,7 @@ experiences: [
      achievements: [
       "Developed an Android-based application that integrates with Mi Bands to track users' running activity. The app syncs data via an Android client and allows Safaricom employees to convert their steps into points. These points can be shared with their departments, enabling teams with the highest activity to participate in corporate social responsibility (CSR) initiatives. Built with a focus on real-time data syncing, user engagement, and promoting a healthy, impactful workplace culture. ",
       "Developed a church Android app as part of research and development.",
-      "Created the Pampers IoT application using Estimote iBeacons for customer engagement."
+      "Developed the Pampers IoT application using Estimote iBeacons to enhance customer engagement for first-time moms. The app provided exclusive in-store offers, real-time professional advice from mothers, midwives, and doctors, and an integrated clinic booking system. A collaboration between ScanGroup and Pampers IoT, the project transformed mall shopping into an interactive and supportive experience for new mothers."
       ],
       images: []
     }
