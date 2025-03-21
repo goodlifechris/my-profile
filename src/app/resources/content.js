@@ -109,7 +109,7 @@ experiences: [
      role: "Founder and Software Engineer",
      achievements: [
         "Founded UXCRFT Ltd to mentor the community in coding and software development.",
-        "Developed systems for organizations like Qhala Ltd and Safaricom Alpha.",
+        "Developed an Android interface for Hewani, a cutting-edge weather prediction project under Farasi Technologies in collaboration with MIT engineers. The app provided real-time insights into rainfall patterns, accurately forecasting when and where rain would fall before it happened. Designed for precision and usability, Hewani leveraged advanced meteorological data to deliver hyper-local predictions, revolutionizing weather tracking with seamless mobile integration.",
         "Worked on various innovation projects with the Ministry of Interior."
       ],
       images: []
@@ -140,8 +140,9 @@ experiences: [
       timeframe: "2015 - 2017",
      role: "Internship Web & Android Developer",
      achievements: [
-        "Developed a church Android app as part of research and development.",
-        "Created the Pampers IoT application using Estimote iBeacons for customer engagement."
+      "Developed an Android-based application that integrates with Mi Bands to track users' running activity. The app syncs data via an Android client and allows Safaricom employees to convert their steps into points. These points can be shared with their departments, enabling teams with the highest activity to participate in corporate social responsibility (CSR) initiatives. Built with a focus on real-time data syncing, user engagement, and promoting a healthy, impactful workplace culture. ",
+      "Developed a church Android app as part of research and development.",
+      "Created the Pampers IoT application using Estimote iBeacons for customer engagement."
       ],
       images: []
     }
