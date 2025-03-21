@@ -98,7 +98,6 @@ experiences: [
      role: "Software Engineer",
      achievements: [
         "Developed Internal Innovation Challenge for Stanbic Zambia.",
-        "Product developer on innovation portal during COVID-19 for Kenya Airways and Ministry of ICT.",
         "Created an educative portal for Graca Machel Trust to empower women.",
         "Worked with the University of Nairobi on an info-portal for a data-driven approach to control infectious diseases in Kenya & Africa."
       ],
@@ -111,7 +110,7 @@ experiences: [
      achievements: [
         "Founded UXCRFT Ltd to mentor the community in coding and software development.",
         "Developed an Android interface for Hewani, a cutting-edge weather prediction project under Farasi Technologies in collaboration with MIT engineers. The app provided real-time insights into rainfall patterns, accurately forecasting when and where rain would fall before it happened. Designed for precision and usability, Hewani leveraged advanced meteorological data to deliver hyper-local predictions, revolutionizing weather tracking with seamless mobile integration.",
-        "Worked on various innovation projects with the Ministry of Interior."
+        "Product developer on innovation portal during COVID-19 for Kenya Airways and Ministry of ICT as a Board Member in Kenya Covid ICT Committee",
       ],
       images: []
     },
