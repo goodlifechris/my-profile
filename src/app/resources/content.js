@@ -81,9 +81,10 @@ const about = {
     title: "Introduction",
     description: (
       <>
-        Christopher is a Kenyan based software engineer with a passion for transforming complex challenges
-        into simple, elegant software solutions. His work spans digital interfaces, government interactive
-        experiences, and the convergence of design and technology.
+   Christopher is a full-stack engineer with expertise in web and mobile app development.
+    With a passion for building innovative solutions, he thrives on transforming ideas into impactful digital experiences.
+     His work spans various industries, from enterprise applications to IoT and real-time data systems. Always eager to collaborate, 
+     Christopher is driven by the challenge of solving real-world problems through technology..
       </>
     ),
   },
