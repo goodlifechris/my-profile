@@ -207,8 +207,8 @@ experiences: [
         images: []
       },
       {
-        title: "Digital Ocean, AWS",
-        description: "Deploying and managing cloud applications with Digital Ocean and AWS.",
+        title: "Digital Ocean,AWS",
+        description: "Deploying and managing cloud applications with Digital Ocean and AWS. Pst!! still learning and experiment",
         images: []
       }
     ]
